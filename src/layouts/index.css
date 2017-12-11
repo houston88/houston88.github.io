@@ -1,0 +1,25 @@
+/* base app styles */
+html, body {
+  height: 100%;
+}
+body > div {
+  height: 100%;
+}
+.landing-image {
+  display: block;
+  width: 250px;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin-top: 42px;
+  box-shadow: 0px 1px 2px 1px rgba(0,0,0,.15);
+}
+.landing-page h1, .landing-page h2 {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+.landing-page a {
+  color: #eee;
+}
+.landing-page a:hover, .landing-page a:active {
+  color: #8a8a8a;
+}
