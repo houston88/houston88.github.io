@@ -43,6 +43,7 @@ const IndexPage = () => (
       src={familyImage}
     />
     <h1>Houston's Landing Page</h1>
+    <h3>Not much here yet...</h3>
     <h2>
       <CoolLink href="http://housty.io">housty.io</CoolLink>
     </h2>

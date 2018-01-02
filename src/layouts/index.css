@@ -13,7 +13,7 @@ body > div {
   margin-top: 42px;
   box-shadow: 0px 1px 2px 1px rgba(0,0,0,.15);
 }
-.landing-page h1, .landing-page h2 {
+.landing-page h1, .landing-page h2, .landing-page h3 {
   color: white;
   text-shadow: 1px 1px 2px black;
 }
